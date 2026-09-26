@@ -90,6 +90,3 @@ python app.py
 
 ##🙌 Contributing
 This is a personal academic project. Contributions are welcome after discussion.
-
-
-## FOR MAIN BRANCH GO [HERE](https://github.com/Gladiator07/Harvestify)
